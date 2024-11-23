@@ -1,7 +1,0 @@
-seaborn
-pandas
-matplotlib
-plotly
-numpy
-streamlit
-openpyxl
