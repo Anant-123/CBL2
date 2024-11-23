@@ -35,7 +35,7 @@ def recovery(w, b, angle_deg, disc_to_border, disc_to_disc):
     return percent_recovery
 
 # Streamlit app
-st.image('logo_hil.jpg', width=100)
+
 st.title("CBL-2 Optimal Recovery Calculator")
 
 # Input from user
